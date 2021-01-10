@@ -1,6 +1,6 @@
 # Stock Market Analysis (VBA)
 ## Overview of Project
-The aim of this project is to provide basic quantitative metrics (volume and the year returns for the FYE 2017 and 2018) to help making an investment decision for a selected list of green energy stocks.
+The aim of this project is to provide basic quantitative metrics (volume and the year returns for the FYE 2017 and 2018) to help making an investment decision for a selected list of green energy stocks. The results indicate a high volatity for the green energy industry with return of more than 199% in 2017 and a decrease of(62.6%) in 2018.
 
 ## Stock Performance Analysis
 ### FYE 2017 Analysis
