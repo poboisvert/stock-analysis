@@ -9,6 +9,7 @@ Steve base his decision mostly on historical returns and trend (her parents opin
 ### Performance Analysis of FYE 2018
 In 2018, all stocks seems to have a steady liquidity with a large volume of shares traded. Based on the figure 2, DQ (favorite of Steve's parent) return the lowest with -62.6%. 
 
+### Conclusion of the returns
 Base on 2017 and 2018, the comanies ENPH and RUN, are making profits for their investor in both year. Based on historical results and volumes, these two could be a better choice comparing to the favorite (DQ).
 
 ## Code Source & Time execution analysis
