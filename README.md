@@ -1,6 +1,6 @@
 # Stock Market Analysis (VBA)
 ## Overview of Project
-The aim of this project is to provide basic quantitative metrics (volume and the year returns for the FYE 2017 and 2018) to help making an investment decision.
+The aim of this project is to provide basic quantitative metrics (volume and the year returns for the FYE 2017 and 2018) to help making an investment decision for a selected list of green energy stocks.
 
 ## Code Source Analysis
 ### Time execution analysis
