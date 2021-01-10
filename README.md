@@ -22,7 +22,7 @@ Base on 2017 and 2018, the tickers ENPH and RUN are making profits for their inv
 ### Pros and cons of refactoring code
 
 #### Original Source Code
-For the original source code, the pros is the simplicity to understand all the steps. At first, the variable i the the number of the ticker from the selected array then the code will loop accross the data sheet for a the selected year and will aggregate the volume and fill the starting date and ending date. 
+For the original source code, the pros are the simplicity to understand all the steps and the speed to modify the source code. At first, the variable "i" the the number of the ticker from the selected array then the code will loop accross the data sheet for a the selected year and will aggregate the volume and fill the starting date and ending date. 
 
 The cons are the time responsiveness at 0.52s on average, the loop is done 12 times in order to fill the 12 tickers and the design pattern could be improve since some functions are duplicated.
 
