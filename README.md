@@ -11,7 +11,7 @@ Using images and examples of your code, compare the stock performance between 20
 ### Pros and cons of refactoring code
 
 #### Original Source Code
-For the original source code, the pros was 
+For the original source code, the pros was the simplicity to understand the operations. At first, the variable i the the number of the ticker from the selected array then the code will loop accross the data sheet for a the selected year and will aggregate the volume and fill the starting date and ending date. The cons are the time responsiveness at 0.52 on average and the loop is done 12 times in order to fill the 12 tickers. 
 
 #### Refactoring Source Code
 
