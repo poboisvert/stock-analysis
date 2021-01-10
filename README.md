@@ -7,7 +7,7 @@ The aim of this project is to provide quantitative metrics (volume and returns (
 Steve base his decision mostly on historical returns and the trend (her parent's opinion). Based on the figure 1, all stocks seems to have a steady liquidity with a large volume of shares traded (100MM+). The conclusion for the selected year are (1) investors were able to get a higher valuation of their shares with an increase of 67% on average for the last twelve months (LTM).
 
 ### Performance Analysis of FYE 2018
-In 2018, all stocks seems to have a steady liquidity with a large volume of shares traded. Based on the figure 2, DQ (favorite of Steve's parent) return the lowest with -62.6%. The conclusion for this year are (1) investors lost -102% on average of what the price of their share was at the closing day of 2017 and this industry offer a high volatility that may not be a fit for steve's parents.
+In 2018, all stocks seems to have a steady liquidity with a large volume of shares traded. Based on the figure 2, DQ (favorite of Steve's parent) return the lowest with a FYE performance of -62.6%. The conclusion for this year are (1) investors lost -102% on average of what the price of their share was at the closing day of 2017 and this industry offer a high volatility that may not be a fit for steve's parents.
 
 ### Conclusion of the returns
 Base on 2017 and 2018, the tickers ENPH and RUN are making profits for their investors in both year. Based on historical results and volumes, these two could be a better choice comparing to the favorite (DQ). TERP is considered the worst performer in that category with only negative return of -7.2% for FYE 2017 and -5.0% for FYE 2018. 
