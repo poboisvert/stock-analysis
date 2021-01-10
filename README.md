@@ -1,6 +1,6 @@
 # Stock Market Analysis (VBA)
 ## Overview of Project
-The aim of this project is to provide basic quantitative metrics (volume and the year returns for the FYE 2017 and 2018) to help making an investment decision for a selected list of green energy stocks. The results indicate a high volatity for the green energy industry with return of more than 199% in 2017 and a decrease of (62.6%) in 2018.
+The aim of this project is to provide basic quantitative metrics (volume and the year returns for the FYE 2017 and 2018) to help making an investment decision for a selected list of green energy stocks. The results indicate a high volatity for the green energy industry with return of more than 199% in 2017 and a decrease of -62.6% in 2018.
 
 ## Stock Performance Analysis
 ### Performance Analysis of FYE 2017
@@ -10,7 +10,7 @@ Steve base his decision mostly on historical returns and trend (her parents opin
 In 2018, all stocks seems to have a steady liquidity with a large volume of shares traded. Based on the figure 2, DQ (favorite of Steve's parent) return the lowest with -62.6%. 
 
 ### Conclusion of the returns
-Base on 2017 and 2018, the comanies ENPH and RUN, are making profits for their investor in both year. Based on historical results and volumes, these two could be a better choice comparing to the favorite (DQ).
+Base on 2017 and 2018, the comanies ENPH and RUN, are making profits for their investor in both year. Based on historical results and volumes, these two could be a better choice comparing to the favorite (DQ). TERP is considered the worst performer in that category with only negative return of -7.2% for FYE 2017 and -5.0% for FYE 2018. 
 
 ## Code Source & Time execution analysis
 
