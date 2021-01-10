@@ -16,7 +16,7 @@ Base on 2017 and 2018, the tickers ENPH and RUN are making profits for their inv
 
 ##### Figure 1: Time execution and 12 stocks performance for 2017
 ![alt text](https://github.com/poboisvert/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
-##### Figure 2: Time execution and 12 stocks performance for 2017
+##### Figure 2: Time execution and 12 stocks performance for 2018
 ![alt text](https://github.com/poboisvert/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
 
 ### Pros and cons of refactoring code
