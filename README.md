@@ -3,10 +3,10 @@
 The aim of this project is to provide basic quantitative metrics (volume and the year returns for the FYE 2017 and 2018) to help making an investment decision for a selected list of green energy stocks.
 
 ## Stock Performance Analysis
-### FYE 2017
+### FYE 2017 Analysis
 Steve base his decision mostly on historical returns and trend (her parents opinion). In 2017, all stocks seems to have a steady liquidity with a large volume of shares traded.
 
-### FYE 2018
+### FYE 2018 Analysis
 In 2018, all stocks seems to have a steady liquidity with a large volume of shares traded.
 ## Code Source & Time execution analysis
 
