@@ -24,7 +24,7 @@ Based on 2017 and 2018, the tickers ENPH and RUN are making profits for their in
 #### Original Source Code
 For the original source code, the pros are the simplicity to understand all the steps and the speed to modify the source code. At first, the variable "i" selects the number of the ticker from the selected array and will loop accross the sheet for a the selected year in order to aggregate the volume and generate a starting date and ending date value. 
 
-The cons are the time responsiveness at 0.52s on average, and it will loop 12 times in order to fill the 12 tickers. The design pattern could be improve since some functions are duplicated.
+The cons are the time responsiveness at 0.52s on average, and it will loop 12 times in order to fill the each ticker and (2) the design pattern could be improve since some functions are duplicated.
 
 #### Refactoring Source Code
 For the original source code, the pros are the speed to aggregate the data for the 12 tickers. The code uses an array with a tickerIndex that scan the selected year and store the volume, starting price and ending price of the selected period on the first execution. By aggregation all the information for the 12 tickers once, we confirm a time execution of 0.10s on average (Figure 1 & 2) which is 0.4s quicker than the original. The last pros would be it offer the capacity to gather and analyse more data since the run time is less and the CPU utilization is lower.
