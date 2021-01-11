@@ -19,7 +19,7 @@ Based on 2017 and 2018, the tickers ENPH and RUN are making profits for their in
 ##### Figure 2: Time execution and 12 stocks performance (2018)
 ![alt text](https://github.com/poboisvert/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
 
-### Code comparaion & analysis
+### Code comparaison & analysis
 
 #### Original Source Code
 For the original source code, the pros are the simplicity to understand all the steps and the speed to modify the source code. At first, the variable "i" selects the number of the ticker from the selected array and will loop accross the sheet for a the selected year in order to aggregate the volume and generate a starting date and ending date value. 
